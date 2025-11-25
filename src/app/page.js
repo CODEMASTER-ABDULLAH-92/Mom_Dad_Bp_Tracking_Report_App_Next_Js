@@ -28,10 +28,10 @@ export default function Home() {
     <div className="space-y-6 text-black ">
       <header className="flex flex-col md:flex-row md:items-center md:justify-between gap-4">
         <div>
-          <h1 className="text-3xl font-bold text-gray-800">
+          <h1 className="text-3xl font-bold text-gray-100">
             Parents Health Dashboard
           </h1>
-          <p className="text-gray-500">
+          <p className="text-gray-100">
             Track daily diabetes & blood pressure reports for Mom and Dad.
           </p>
         </div>

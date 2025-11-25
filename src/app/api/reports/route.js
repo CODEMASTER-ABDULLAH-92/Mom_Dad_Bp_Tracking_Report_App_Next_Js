@@ -1,4 +1,3 @@
-// app/api/reports/route.js
 import { NextResponse } from 'next/server';
 import dbConnect from '@/app/lib/mongodb';
 import Report from '@/app/models/Repost';
