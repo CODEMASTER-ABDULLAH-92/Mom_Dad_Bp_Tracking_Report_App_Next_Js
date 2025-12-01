@@ -23,7 +23,7 @@ export async function GET(request) {
       filter.date = { $gte: start, $lte: end };
     }
 
-    const reports = await Report.find(filter).sort({ date: -1 });
+    const reports = await Report.find(filter).sort({ date: 1 });
     return NextResponse.json({ success: true, data: reports });
   } catch (error) {
     console.error('GET /api/reports error', error);

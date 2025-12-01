@@ -283,3 +283,19 @@ export default function ReportTable({
     </div>
   );
 }
+
+/*
+- bg 
+-  mention all ingrenent from the UBER Eats
+- Upgrate to combo 6 dollar
+- Dips 
+- mayo 
+- peri peri
+- Drink 3 dollar
+Fries 
+M 
+L
+Load Fires 
+Grilled Fires
+
+ */
