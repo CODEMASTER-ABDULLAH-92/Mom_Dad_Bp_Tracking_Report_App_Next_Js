@@ -224,13 +224,6 @@ npm run build
 vercel deploy
 ```
 
-### Other Platforms
-The app can be deployed on any platform that supports Next.js:
-- Netlify
-- AWS
-- Google Cloud
-- Digital Ocean
-
 ## 🤝 Contributing
 
 1. Fork the repository
